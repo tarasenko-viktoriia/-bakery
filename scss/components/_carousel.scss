@@ -1,0 +1,14 @@
+.carousel-button {
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+
+  &.next {
+    transform: rotate(180deg);
+  }
+}
+/* .carousel-button:hover {
+      background-color: var(--color-primary-dark);
+    } */
+
